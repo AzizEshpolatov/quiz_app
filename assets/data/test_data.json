@@ -1,0 +1,204 @@
+{
+  "data" : [
+    {
+      "subject_name" : "Matematika",
+      "levelModel" : "easy",
+      "question" : [
+        {
+          "question_test" : "2*8*4-44 + 30",
+          "variant_1" : "60",
+          "variant_2" : "50",
+          "variant_3" : "40",
+          "variant_4" : "30",
+          "true_answer" : "50"
+        },
+        {
+          "question_test" : "2*8*4-44 + 20",
+          "variant_1" : "60",
+          "variant_2" : "50",
+          "variant_3" : "40",
+          "variant_4" : "30",
+          "true_answer" : "40"
+        },
+        {
+          "question_test" : "2*8*4-44 + 40",
+          "variant_1" : "60",
+          "variant_2" : "50",
+          "variant_3" : "40",
+          "variant_4" : "30",
+          "true_answer" : "60"
+        },
+        {
+          "question_test" : "2*8*4-44 + 30",
+          "variant_1" : "60",
+          "variant_2" : "50",
+          "variant_3" : "40",
+          "variant_4" : "30",
+          "true_answer" : "50"
+        },
+        {
+          "question_test" : "2*8*4-44 + 20",
+          "variant_1" : "60",
+          "variant_2" : "50",
+          "variant_3" : "40",
+          "variant_4" : "30",
+          "true_answer" : "40"
+        },
+        {
+          "question_test" : "2*8*4-44 + 40",
+          "variant_1" : "60",
+          "variant_2" : "50",
+          "variant_3" : "40",
+          "variant_4" : "30",
+          "true_answer" : "60"
+        },
+        {
+          "question_test" : "2*8*4-44 + 30",
+          "variant_1" : "60",
+          "variant_2" : "50",
+          "variant_3" : "40",
+          "variant_4" : "30",
+          "true_answer" : "50"
+        },
+        {
+          "question_test" : "2*8*4-44 + 20",
+          "variant_1" : "60",
+          "variant_2" : "50",
+          "variant_3" : "40",
+          "variant_4" : "30",
+          "true_answer" : "40"
+        },
+        {
+          "question_test" : "2*8*4-44 + 40",
+          "variant_1" : "60",
+          "variant_2" : "50",
+          "variant_3" : "40",
+          "variant_4" : "30",
+          "true_answer" : "60"
+        }
+      ]
+    },
+    {
+      "subject_name" : "English",
+      "levelModel" : "medium",
+      "question" : [
+        {
+          "question_test" : "2*8*4-44 + 20",
+          "variant_1" : "60",
+          "variant_2" : "50",
+          "variant_3" : "40",
+          "variant_4" : "30",
+          "true_answer" : "40"
+        },
+        {
+          "question_test" : "2*8*4-44 + 40",
+          "variant_1" : "60",
+          "variant_2" : "50",
+          "variant_3" : "40",
+          "variant_4" : "30",
+          "true_answer" : "60"
+        }
+      ]
+    },
+    {
+      "subject_name" : "Fizika",
+      "levelModel" : "hard",
+      "question" : [
+        {
+          "question_test" : "2*8*4-44 + 30",
+          "variant_1" : "60",
+          "variant_2" : "50",
+          "variant_3" : "40",
+          "variant_4" : "30",
+          "true_answer" : "50"
+        },
+        {
+          "question_test" : "2*8*4-44 + 20",
+          "variant_1" : "60",
+          "variant_2" : "50",
+          "variant_3" : "40",
+          "variant_4" : "30",
+          "true_answer" : "40"
+        },
+        {
+          "question_test" : "2*8*4-44 + 40",
+          "variant_1" : "60",
+          "variant_2" : "50",
+          "variant_3" : "40",
+          "variant_4" : "30",
+          "true_answer" : "60"
+        },
+        {
+          "question_test" : "2*8*4-44 + 30",
+          "variant_1" : "60",
+          "variant_2" : "50",
+          "variant_3" : "40",
+          "variant_4" : "30",
+          "true_answer" : "50"
+        },
+        {
+          "question_test" : "2*8*4-44 + 20",
+          "variant_1" : "60",
+          "variant_2" : "50",
+          "variant_3" : "40",
+          "variant_4" : "30",
+          "true_answer" : "40"
+        },
+        {
+          "question_test" : "2*8*4-44 + 40",
+          "variant_1" : "60",
+          "variant_2" : "50",
+          "variant_3" : "40",
+          "variant_4" : "30",
+          "true_answer" : "60"
+        },
+        {
+          "question_test" : "2*8*4-44 + 30",
+          "variant_1" : "60",
+          "variant_2" : "50",
+          "variant_3" : "40",
+          "variant_4" : "30",
+          "true_answer" : "50"
+        },
+        {
+          "question_test" : "2*8*4-44 + 20",
+          "variant_1" : "60",
+          "variant_2" : "50",
+          "variant_3" : "40",
+          "variant_4" : "30",
+          "true_answer" : "40"
+        },
+        {
+          "question_test" : "2*8*4-44 + 40",
+          "variant_1" : "60",
+          "variant_2" : "50",
+          "variant_3" : "40",
+          "variant_4" : "30",
+          "true_answer" : "60"
+        }
+      ]
+    },
+    {
+      "subject_name" : "Dasturlash",
+      "levelModel" : "medium",
+      "question" : [
+        {
+          "question_test" : "2*8*4-44 + 20",
+          "variant_1" : "60",
+          "variant_2" : "50",
+          "variant_3" : "40",
+          "variant_4" : "30",
+          "true_answer" : "40"
+        },
+        {
+          "question_test" : "2*8*4-44 + 40",
+          "variant_1" : "60",
+          "variant_2" : "50",
+          "variant_3" : "40",
+          "variant_4" : "30",
+          "true_answer" : "60"
+        }
+      ]
+    }
+  ]
+}
